@@ -17,7 +17,7 @@ $ echo hello > data/hello.txt
 
 # client
 $ sudo mkdir /mnt/data
-$ sudo mount.nfs4 -v 127.0.0.1:/mnt/data
+$ sudo mount.nfs4 -v 127.0.0.1:/ /mnt/data
 $ cat /mnt/data/hello.txt
 ```
 
