@@ -1,6 +1,10 @@
 nfs
 ===
 
+[![Docker Build Images](https://github.com/EasyPi/docker-nfs/actions/workflows/build.yaml/badge.svg)](https://github.com/EasyPi/docker-nfs/actions/workflows/build.yaml)
+
+[![](http://dockeri.co/image/easypi/nfs)](https://hub.docker.com/r/easypi/nfs)
+
 [NFS-Ganesha][1] is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems.
 
 > :warning: ~90 seconds to sync.
